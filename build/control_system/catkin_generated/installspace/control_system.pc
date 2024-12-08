@@ -1,0 +1,8 @@
+prefix=/home/chohyunjun/catkin_ws/install
+
+Name: control_system
+Description: Description of control_system
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/chohyunjun/catkin_ws/install
+
+Name: control_simulation
+Description: Description of control_simulation
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/chohyunjun/catkin_ws/devel
+
+Name: carla_control
+Description: Description of carla_control
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

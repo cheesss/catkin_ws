@@ -1,0 +1,5 @@
+<launch>
+    <node pkg="integrated_simulation" type="path_planner_pso_node.py" name="path_planner_node" output="screen" />
+    <node pkg="integrated_simulation" type="vehicle_controller_node.py" name="controller_node" output="screen" />
+    <node pkg="integrated_simulation" type="carla_integration_node.py" name="carla_integration_node" output="screen" />
+</launch>
